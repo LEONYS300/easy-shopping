@@ -1,13 +1,14 @@
 <h1>Easy Shopping</h1>
 <br>
 <br>
+<p></p>
 <h2>Esse foi um projeto que aprendi no <a href="https://www.devclub.com.br/">DevClub</a></h2>
 <br>
 <br>
 <img src="https://github.com/LEONYS300/easy-shopping/blob/main/desktop.png?raw=true"/>
 <br>
 <br>
-mobile:
+<p> mobile mode :</p>
 <img src="https://github.com/LEONYS300/easy-shopping/blob/main/mobile.png?raw=true"/>
 
 tecnologias ultilizadas:
@@ -16,4 +17,8 @@ tecnologias ultilizadas:
 <br>
 <br>
 <p>project vision</p>
-- <img src="http://127.0.0.1:5500/index.html"/>
+<a src="http://127.0.0.1:5500/index.html">
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/68f4edf1-eb04-47af-ab98-980295f30113" /></a>
+
+
+
