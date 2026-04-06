@@ -17,7 +17,8 @@ tecnologias ultilizadas:
 <br>
 <br>
 <p>project vision</p>
-<a src="http://127.0.0.1:5500/index.html"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/68f4edf1-eb04-47af-ab98-980295f30113" /></a>
+<a href="http://127.0.0.1:5500/index.html"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/68f4edf1-eb04-47af-ab98-980295f30113"/>
+</a> 
 
 
 
